@@ -14,7 +14,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=600&color=FF2222&center=true&width=900&lines=⚡+The+Dark+Knight+of+Data+%26+AI+⚡;🕸️+Spinning+Agentic+Webs+with+n8n;🌌+Navigating+the+AI+Universe;🦇+I+am+the+night...+and+the+data;⚡+Lightning+fast+pipelines%2C+zero+mercy;🔴+Red.+Black.+No+mercy." alt="Typing SVG" />
 
 </div>
 
@@ -269,12 +268,12 @@ class DarkKnightDev:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CC0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-thekkeparampil-varghese-6b3b4430a/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF2222?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/theofficialbtv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benvarghese.me)
-[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bentvarghese99@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben@email.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FF2222?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ben-thekkeparampil&color=cc0000&style=for-the-badge&label=BAT-SIGNAL+HITS)
+![Profile Views](https://komarev.com/ghpvc/?username=Chackochan-Ltd&color=cc0000&style=for-the-badge&label=BAT-SIGNAL+HITS)
 
 </div>
 
